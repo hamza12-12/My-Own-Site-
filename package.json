@@ -1,0 +1,7 @@
+{
+  "name": "my-own-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Static site - ready to deploy'"
+  }
+}
