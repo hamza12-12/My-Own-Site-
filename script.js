@@ -1,2 +1,1 @@
-const WHATSAPP_NUMBER = '96396465342';
-// مثال: '963944123456'
+const WHATSAPP_NUMBER = 'https://wa.me/963964659342';
