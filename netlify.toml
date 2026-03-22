@@ -1,6 +1,2 @@
 [build]
   publish = "."
-  command = "echo 'Static site - no build needed'"
-
-# أو إذا كنت تريد نشر مجلد معين
-# publish = "."
